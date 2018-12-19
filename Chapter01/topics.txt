@@ -1,0 +1,3 @@
+Quick Introduction to python
+Examples from the textbook
+Exercises from the textbook
